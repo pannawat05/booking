@@ -1,0 +1,29 @@
+.e{
+  margin-top: 5%;
+}
+#profile{
+  border-radius: 50%;
+  height:35px;
+  margin-right: 20px;
+  
+}
+.form-select{
+  padding-left: 25px;
+  background: url("https://tse4.mm.bing.net/th?id=OIP.PYiKfREkjUWP03VLHuUGywHaJi&pid=Api&P=0&h=180") no-repeat left;
+  background-size: 18px;
+}
+#del{
+  color:red;
+}
+#edit{
+  color:rgb(82, 82, 243);
+}
+.l{
+  margin-left: 30px;
+}
+#label{
+  padding-top: 2%;
+}
+#qr:hover{
+  cursor: pointer;
+}
